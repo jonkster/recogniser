@@ -1,0 +1,13 @@
+<h3>Main Page</h3>
+<p>Welcome to Recogniser!</p>
+<div>
+    <p>
+    Write a digit in the black square.  The system will attempt to guess the number and display it here: <span id="response">&nbsp;{{ guess }}</span>
+    </p>
+    <canvas myWriting id="hand-canvas"></canvas>
+    <img id="hand-img" [src]="lastSrc"/>
+    <div id="hand-controls">
+        <!--<button (click)="correct(handwriting)">Wrong</button>-->
+        <button (click)="clear(handwriting)">Clear</button>
+    </div>
+</div>

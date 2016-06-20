@@ -1,0 +1,29 @@
+#hand-img {
+    border: 1px solid black;
+    width: 48px;
+    height: 48px;
+    float: left;
+    display: block;
+}
+
+#hand-canvas {
+    width: 400px;
+    height: 400px;
+    border: 1px solid black;
+    float: left;
+    display: block;
+}
+
+#hand-controls {
+    float: left;
+    clear: both;
+}
+
+#response {
+    font-size: 3em;
+    width: 2em;
+    color: red;
+    border: 1px solid red;
+}
+
+
