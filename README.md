@@ -6,6 +6,8 @@ This is very rudimentary and not for anything other than experimentation/referen
 
 Code is totally throw away.
 
+Uses ConvNetJS (http://cs.stanford.edu/people/karpathy/convnetjs/index.html).
+
 
 It consists of 2 parts:
 
