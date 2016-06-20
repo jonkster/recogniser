@@ -1,6 +1,6 @@
 # Recogniser
 
-An experimental handwriting recogniser using neural net.
+An experimental handwriting recogniser using a neural network.
 
 This is very rudimentary and not for anything other than experimentation/reference.
 
